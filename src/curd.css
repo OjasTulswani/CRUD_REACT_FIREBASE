@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background: #f6f6f6;
+}
+.form_container{
+    background: #fff;
+    padding: 20px 30px;
+    margin : 0px auto;
+    width: 300px;
+    margin-top: 50px;
+}
+.form_container h2{
+    text-align: center;
+    color: #232323;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+
+}
+.form_container .box{
+    width: 100%;
+    margin-top: 10px;
+}
+.form_container button{
+    margin-left: 135px;
+    padding: 10px 30px;
+    border: none;
+    outline: none;
+    background: #2196f3;
+    color: #fff;
+    border-radius: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.database {
+    padding: 20px 40px;
+    width: 100%;
+}
+
+.database h2{
+    color: #232323;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.database .container{
+    display: flex;
+    
+    flex-wrap: wrap;
+    max-width: 100%;
+
+}
+.database .container .box{
+    padding: 10px 20px;
+    margin-top: 20px;
+    margin-left: 15px;
+    background: #fff;
+    border-radius: 5px;
+}
+.database .container .box h3{
+    margin-top: 10px;
+    font-size: 16px;
+    color: #232323;
+}
+
+.database .container .box button{
+    /* margin-left: 135px; */
+    padding: 10px 15px;
+    border: none;
+    outline: none;
+    background: #2196f3;
+    color: #fff;
+    border-radius: 5px;
+    margin-top: 15px;
+    cursor: pointer;
+    margin-left: 20px;
+}
