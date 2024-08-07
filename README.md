@@ -27,7 +27,7 @@ Ensure you have the following software installed:
 1. Clone the repository to your local machine
 
 ```bash
-git clone https://github.com/yourusername/curd_react_firebase.git
+git clone https://github.com/OjasTulswani/curd_react_firebase.git
 ```
 
 2. Navigate to the project directory
